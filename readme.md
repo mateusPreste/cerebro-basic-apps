@@ -1,4 +1,4 @@
-# cerebro-basic-apps
+# cerebro-basic-apps manjaro
 
 > Basic plugin for search and launch applications  with [Cerebro app](http://www.cerebroapp.com)
 

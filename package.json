@@ -1,9 +1,9 @@
 {
-  "name": "cerebro-basic-apps",
-  "version": "1.1.0",
+  "name": "cerebro-basic-apps-manjaro",
+  "version": "1.0.0",
   "description": "Basic plugin for search and launch applications  with Cerebro app",
   "license": "MIT",
-  "repository": "cerebroapp/cerebro-basic-apps",
+  "repository": "cerebroapp/cerebro-basic-apps-manjaro",
   "author": {
     "name": "Alexandr Subbotin",
     "email": "kelionweb@gmail.com",

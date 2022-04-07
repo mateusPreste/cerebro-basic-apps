@@ -8,6 +8,7 @@ import { shellCommand } from 'cerebro-tools'
 
 let appDirs = [
   path.join(remote.app.getPath('home'), '.local', 'share'),
+  path.join('/usr', 'bin'),
   path.join('/usr', 'share'),
   path.join('/usr', 'share', 'ubuntu'),
   path.join('/usr', 'share', 'gnome'),
